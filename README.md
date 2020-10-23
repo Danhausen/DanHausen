@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... IBM's Mainframe, JCL and DB2
-- 🌱 I’m currently learning ... C# and JCL
 - 📫 How to reach me: ... daniel@danhausen.com.br
+- 🔭 I’m currently working remotely on ... IBM with Mainframe, JCL and DB2
+- 🌱 I’m currently learning ... Dart (Flutter) and C# (Unity)
 
 
 <!--
