@@ -10,8 +10,13 @@ Follow me on my Social Networks:
 - 🌱 I’m currently learning ... Dart (Flutter) and C# (Unity)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact)](https://github.com/danhausen/github-readme-stats)
+
+
 <!--
 **DanHausen/DanHausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DanHausen&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
