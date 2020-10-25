@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: ... [@ThisIsDanHausen](https://twitter.com/ThisIsDanHausen) / daniel@danhausen.com.br
 - 🔭 I’m **remotely working at ... IBM** with Mainframe, JCL and DB2
-- 🌱 I’m currently learning ... Dart (Flutter) and C# (Unity)
+- 🌱 I’m currently learning ... <img alt="Dart" width="22px" src="https://github.com/github/explore/blob/master/topics/dart/dart.png" /> <img alt="Dart" width="22px" src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png"/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact&theme=dracula)](https://github.com/danhausen/github-readme-stats)
