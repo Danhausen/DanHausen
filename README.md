@@ -8,7 +8,10 @@ Welcome to my... <img alt="Github" width="22px" src="https://github.com/github/e
 
 - 📫 How to reach me: ... [@ThisIsDanHausen](https://twitter.com/ThisIsDanHausen) / daniel@danhausen.com.br
 - 🔭 I’m **remotely working at ... IBM** with Mainframe, JCL and DB2
-- 🌱 I’m currently learning ... <img alt="Dart" width="22px" src="https://github.com/github/explore/blob/master/topics/dart/dart.png" />
+- 🌱 I’m currently learning ... 
+<code><img height="22" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></code>
+<code><img height="22" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></code>
+<code><img height="22" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"></code>
 
 **Languages and tools:**
 
