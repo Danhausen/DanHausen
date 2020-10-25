@@ -7,7 +7,9 @@
 Welcome to my... <img alt="Github" width="22px" src="https://github.com/github/explore/blob/master/topics/github/github.png" />
 
 - 📫 How to reach me: ... [@ThisIsDanHausen](https://twitter.com/ThisIsDanHausen) / daniel@danhausen.com.br
-- 🔭 I’m **remotely working at ... IBM** with Mainframe, JCL and DB2
+- 🔭 I’m currently working at ... **IBM**
+- 💬 Ping me about ... **design, games, development, technology, astronomy, animated movies**
+- ⚡ Fun fact: ... I love games and naruto
 - 🌱 I’m currently learning ... 
 <code><img height="22" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></code>
 <code><img height="22" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></code>
@@ -23,6 +25,8 @@ Welcome to my... <img alt="Github" width="22px" src="https://github.com/github/e
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact&theme=dracula)](https://github.com/danhausen/github-readme-stats)
 
 
+
+
 <!--
 **DanHausen/DanHausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,8 +35,5 @@ Welcome to my... <img alt="Github" width="22px" src="https://github.com/github/e
 Here are some ideas to get you started:
 
 
-- 💬 Ask me about ... 
-- 📫 How to reach me: ... daniel@danhausen.com.br
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ... 
+
 -->
