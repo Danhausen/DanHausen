@@ -21,7 +21,7 @@
 <code><img height="25" src="https://github.com/github/explore/blob/master/topics/python/python.png"></code>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact&theme=dracula)](https://github.com/danhausen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact)](https://github.com/danhausen/github-readme-stats)
 
 
 
