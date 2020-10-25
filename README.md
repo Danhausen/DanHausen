@@ -4,7 +4,6 @@
 [![Twitter: ThisIsDanHausen](https://img.shields.io/twitter/follow/ThisIsDanHausen?style=social)](https://twitter.com/ThisIsDanHausen)
 [![GitHub Dan Hausen](https://img.shields.io/github/followers/danhausen?label=follow&style=social)](https://github.com/danhausen)
 
-Welcome to my... <img alt="Github" width="22px" src="https://github.com/github/explore/blob/master/topics/github/github.png" />
 
 - 📫 How to reach me: ... [@ThisIsDanHausen](https://twitter.com/ThisIsDanHausen) / daniel@danhausen.com.br
 - 🔭 I’m currently working at ... **IBM**
