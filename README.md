@@ -12,13 +12,13 @@
 - 🌱 I’m currently learning ... 
 <code><img height="22" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></code>
 <code><img height="22" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></code>
-<code><img height="22" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"></code>
+<code><img height="25" src="https://github.com/github/explore/blob/master/topics/python/python.png"></code>
 
 **Languages and tools:**
 
 <code><img height="25" src="https://github.com/github/explore/blob/master/topics/unity/unity.png"></code>
 <code><img height="25" src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/master/topics/python/python.png"></code>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact)](https://github.com/danhausen/github-readme-stats)
