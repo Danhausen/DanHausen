@@ -6,7 +6,6 @@
 
 
 - 📫 How to reach me: ... [@ThisIsDanHausen](https://twitter.com/ThisIsDanHausen) / daniel@danhausen.com.br
-- 🔭 I’m currently working at ... **IBM**
 - 💬 Ping me about ... **design, games, development, technology, astronomy, animated movies**
 - ⚡ Fun fact: ... I love games and naruto
 - 🌱 I’m currently learning ... 
