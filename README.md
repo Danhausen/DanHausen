@@ -9,13 +9,13 @@
 - 💬 Ping me about ... **design, games, development, technology, astronomy, animated movies**
 - ⚡ Fun fact: ... I love games and naruto
 - 🌱 I’m currently learning ... 
-<code><img height="22" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></code>
-<code><img height="22" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/master/topics/python/python.png"></code>
+<code><img height="22" src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png"></code>
+<code><img height="22" src="https://github.com/github/explore/blob/main/topics/dart/dart.png"></code>
+<code><img height="25" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
 
 **Languages and tools:**
 
-<code><img height="25" src="https://github.com/github/explore/blob/master/topics/unity/unity.png"></code>
+<code><img height="25" src="https://github.com/github/explore/blob/main/topics/unity/unity.png"></code>
 <code><img height="25" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png"></code>
 
 
