@@ -16,7 +16,7 @@
 **Languages and tools:**
 
 <code><img height="25" src="https://github.com/github/explore/blob/master/topics/unity/unity.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/master/topics/csharp/csharp.png"></code>
+<code><img height="25" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png"></code>
 
 
 
