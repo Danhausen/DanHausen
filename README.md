@@ -18,13 +18,6 @@
 <code><img height="25" src="https://github.com/github/explore/blob/main/topics/unity/unity.png"></code>
 <code><img height="25" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png"></code>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact)](https://github.com/danhausen/github-readme-stats)
-
-
-
-
 <!--
 **DanHausen/DanHausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
