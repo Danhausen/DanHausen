@@ -13,7 +13,7 @@
 <code><img height="22" src="https://github.com/github/explore/blob/main/topics/dart/dart.png"></code>
 <code><img height="25" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
 
-**Languages and tools:**
+**LANGUAGES and TOOLS:**
 
 <code><img height="25" src="https://github.com/github/explore/blob/main/topics/unity/unity.png"></code>
 <code><img height="25" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png"></code>
