@@ -6,11 +6,11 @@
 
 
 - 📫 How to reach me: ... [@ThisIsDanHausen](https://twitter.com/ThisIsDanHausen) / daniel@danhausen.com.br
-- 💬 Ping me about ... **design, games, development, technology, astronomy, animated movies**
-- ⚡ Fun fact: ... I love games and naruto
+- 💬 Ping me about ... **games, technology, astronomy and animated movies**
+- ⚡ Fun fact: ... I love technology and naruto
 - 🌱 I’m currently learning ... 
-<code><img height="22" src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png"></code>
-<code><img height="22" src="https://github.com/github/explore/blob/main/topics/dart/dart.png"></code>
+<code><img height="25" src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png"></code>
+<code><img height="25" src="https://github.com/github/explore/blob/main/topics/dart/dart.png"></code>
 <code><img height="25" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
 
 **LANGUAGES and TOOLS:**
