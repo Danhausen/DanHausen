@@ -1,8 +1,7 @@
 <h2> Hi, I'm Dan Hausen 👋</h2> 
 
 [![Linkedin: Dan Hausen](https://img.shields.io/badge/-danhausen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielnordhausen/)](https://www.linkedin.com/in/danielnordhausen/)
-[![Twitter: ThisIsDanHausen](https://img.shields.io/twitter/follow/ThisIsDanHausen?style=social)](https://twitter.com/ThisIsDanHausen)
-[![GitHub Dan Hausen](https://img.shields.io/github/followers/danhausen?label=follow&style=social)](https://github.com/danhausen)
+[![Twitter: ThisIsDanHausen](https://img.shields.io/twitter/follow/DanHausenBR?style=social)](https://twitter.com/DanHausenBR)
 
 
 - 📫 How to reach me: ... [@ThisIsDanHausen](https://twitter.com/ThisIsDanHausen) / daniel@danhausen.com.br
