@@ -8,15 +8,14 @@
 - 📫 How to reach me: ... [@ThisIsDanHausen](https://twitter.com/ThisIsDanHausen) / daniel@danhausen.com.br
 - 💬 Ping me about ... **games, technology, astronomy and animated movies**
 - ⚡ Fun fact: ... I love technology and naruto
-- 🌱 I’m currently learning ... 
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/dart/dart.png"></code>
-<code><img height="25" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
 
-**LANGUAGES and TOOLS:**
+**TOOLS:**
 
 <code><img height="25" src="https://github.com/github/explore/blob/main/topics/unity/unity.png"></code>
 <code><img height="25" src="https://github.com/github/explore/blob/main/topics/csharp/csharp.png"></code>
+<code><img height="25" src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png"></code>
+<code><img height="25" src="https://github.com/github/explore/blob/main/topics/dart/dart.png"></code>
+<code><img height="25" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
 
 <!--
 **DanHausen/DanHausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
