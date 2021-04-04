@@ -4,7 +4,7 @@
 [![Twitter: ThisIsDanHausen](https://img.shields.io/twitter/follow/DanHausenBR?style=social)](https://twitter.com/DanHausenBR)
 
 
-- 📫 How to reach me: ... [@ThisIsDanHausen](https://twitter.com/ThisIsDanHausen) / daniel@danhausen.com.br
+- 📫 Reach me: ... [@ThisIsDanHausen](https://twitter.com/ThisIsDanHausen) / daniel@danhausen.com.br
 - 💬 Ping me about ... **games, technology, astronomy and animated movies**
 - ⚡ Fun fact: ... I love technology and naruto
 
