@@ -1,13 +1,5 @@
-<h2> Hi, I'm Dan Hausen 👋</h2> 
-
-[![Linkedin: Dan Hausen](https://img.shields.io/badge/-danhausen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielnordhausen/)](https://www.linkedin.com/in/danielnordhausen/)
-[![Twitter: ThisIsDanHausen](https://img.shields.io/twitter/follow/DanHausenBR?style=social)](https://twitter.com/DanHausenBR)
-
-
 <h1 align="center">Hi 👋, I'm Dan Hausen</h1>
 <h3 align="center">A passionate tech developer. Growth mindset is my focus.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danhausen" alt="danhausen" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/thisisdanhausen" target="blank"><img src="https://img.shields.io/twitter/follow/thisisdanhausen?logo=twitter&style=for-the-badge" alt="thisisdanhausen" /></a> </p>
 
