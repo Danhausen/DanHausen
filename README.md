@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dan Hausen</h1>
 <h3 align="center">A passionate tech developer. Growth mindset is my focus.</h3>
 
+<p align="left"> <a href="https://twitter.com/danhausenbr" target="blank"><img src="https://img.shields.io/twitter/follow/danhausenbr?logo=twitter&style=for-the-badge" alt="danhausenbr" /></a> </p>
+
 - 🔭 I’m currently working at **IBM**
 
 - 👯 I’m looking to collaborate with **tech teams**
 
 - 👨‍💻 All of my projects are available at [danhausen.com.br](danhausen.com.br)
+
+- 📫 How to reach me **business@danhausen.com.br**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/danielnordhausen/](https://www.linkedin.com/in/danielnordhausen/)
 
@@ -30,4 +34,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/danhausen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danhausen" /></a></p><br><br>
-
