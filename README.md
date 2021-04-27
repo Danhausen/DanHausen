@@ -46,7 +46,7 @@
  <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">We can communicate with these languages:</h3>
+<h3 align="left">We can communicate using these languages:</h3>
 <p align="left"> 
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" alt="Portugês" width="40" height="40"/> </a>
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/pt.svg" alt="Portugês" width="40" height="40"/> </a>   
