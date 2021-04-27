@@ -46,10 +46,13 @@
  <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">We can communicate with:</h3>
- <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" alt="Portugês Brasileiro" width="40" height="40"/> </a>   
+<h3 align="left">We can communicate with these languages:</h3>
+<p align="left"> 
+ <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" alt="Portugês Brasil" width="40" height="40"/> </a>
+ <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/pt.svg" alt="Portugês Portugal" width="40" height="40"/> </a>   
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/de.svg" alt="Deustch" width="40" height="40"/> </a>   
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" alt="English" width="40" height="40"/> </a>   
+</p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/danhausen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danhausen" /></a></p><br><br>
