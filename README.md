@@ -48,10 +48,12 @@
 
 <h3 align="left">We can communicate with these languages:</h3>
 <p align="left"> 
- <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" alt="Portugês Brasil" width="40" height="40"/> </a>
- <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/pt.svg" alt="Portugês Portugal" width="40" height="40"/> </a>   
+ <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" alt="Portugês" width="40" height="40"/> </a>
+ <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/pt.svg" alt="Portugês" width="40" height="40"/> </a>   
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/de.svg" alt="Deustch" width="40" height="40"/> </a>   
+ <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/ch.svg" alt="Deustch" width="40" height="40"/> </a>
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" alt="English" width="40" height="40"/> </a>   
+ <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/gb.svg" alt="English" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Support:</h3>
