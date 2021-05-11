@@ -33,7 +33,7 @@
 <p align="left"> 
  <a href="https://unity.com/" target="_blank"> <img src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogoLarge.png" alt="unity" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.blender.org/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:Logo_Blender.svg" alt="blender" width="40" height="40"/> </a> 
+  <a href="https://www.blender.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="blender" width="40" height="40"/> </a> 
  
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
  <a href="https://parseplatform.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/parseplatform/parseplatform-icon.svg" alt="parse" width="40" height="40"/> </a>   
