@@ -2,7 +2,7 @@
 <h3 align="center">A passionate tech developer. Growth mindset is my focus.</h3>
 
 <p align="left"> <a href="https://twitter.com/danhausenbr" target="blank"><img src="https://img.shields.io/twitter/follow/danhausenbr?logo=twitter&style=for-the-badge" alt="danhausenbr" /></a></p>
-<p align="left"> <a href="https://www.codewars.com/users/Dan%20Hausen/badges/large" target="blank"><img src="https://www.codewars.com/users/Dan%20Hausen/badges/large" alt="danhausen" /></a></p>
+<p align="left"> <a href="https://www.codewars.com/users/Dan%20Hausen/badges/small" target="blank"><img src="https://www.codewars.com/users/Dan%20Hausen/badges/small" alt="danhausen" /></a></p>
 
 
 - 🔭 I’m currently working at **IBM**
