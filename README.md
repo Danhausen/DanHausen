@@ -5,11 +5,11 @@
 <p align="left"> <a href="https://www.codewars.com/users/Dan%20Hausen" target="blank"><img src="https://www.codewars.com/users/Dan%20Hausen/badges/small" alt="danhausen" /></a></p>
 
 
-- 👯 I’m looking to collaborate with **tech teams**
+- 👯 I’m looking to collaborate with **tech teams driving the future**
 
-- 👨‍💻 All of my projects are available at [danhausen.com.br](danhausen.com.br)
+- 👨‍💻 I can work remotely with team, no problem.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/danielnordhausen/](https://www.linkedin.com/in/danielnordhausen/)
+- 📄 I am very eager to learn and grow
 
 - ⚡ Fun fact **I love technology and naruto**
 
