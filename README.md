@@ -13,14 +13,14 @@
 
 - ⚡ Fun fact **I love technology and naruto**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📨 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/danhausenbr" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="danhausenbr" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/danielnordhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="danielnordhausen" height="40" width="40" /></a>
 <a href="https://t.me/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="danhausen" height="40" width="40" /></a>
 <a href="mailto:business@danhausen.com.br" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="danhausenmail" height="40" width="40" /></a>
  
-<h3 align="left">Code profiles:</h3>
+<h3 align="left">🧔 Code profiles:</h3>
 <a href="https://dev.to/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="danhausen" height="40" width="40" /></a>
 <a href="https://kaggle.com/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="danhausen" height="40" width="40" /></a>
 <a href="https://dribbble.com/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="danhausen" height="34" width="40" /></a> 
@@ -29,7 +29,7 @@
 <a href="https://www.topcoder.com/members/danihausen" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="danihausen" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Tools:</h3>
 <p align="left"> 
  <a href="https://unity.com/" target="_blank"> <img src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogoLarge.png" alt="unity" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -44,7 +44,7 @@
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
  </p>
-<h3 align="left">We can communicate using these languages:</h3>
+<h3 align="left">📣 Languages:</h3>
 <p align="left"> 
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" alt="Portugês" width="40" height="40"/> </a>
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/de.svg" alt="Deustch" width="40" height="40"/> </a>   
