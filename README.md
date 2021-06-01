@@ -18,7 +18,7 @@
 <a href="https://twitter.com/danhausenbr" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="danhausenbr" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/danielnordhausen" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="danielnordhausen" height="40" width="40" /></a>
 <a href="https://t.me/danhausen" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="danhausen" height="40" width="40" /></a>
-<a href="business@danhausen.com.br" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="danhausenmail" height="40" width="40" /></a>
+<a href="mailto:business@danhausen.com.br" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="danhausenmail" height="40" width="40" /></a>
  
 <h3 align="left">Code profiles:</h3>
 <a href="https://dev.to/danhausen" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="danhausen" height="40" width="40" /></a>
