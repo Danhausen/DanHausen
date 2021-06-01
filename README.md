@@ -51,5 +51,5 @@
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" alt="English" width="40" height="40"/> </a>   
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">SUPPORT ME:</h3>
 <p><a href="https://www.buymeacoffee.com/danhausen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danhausen" /></a></p><br><br>
