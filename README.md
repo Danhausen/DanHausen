@@ -15,18 +15,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/danhausenbr" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="danhausenbr" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/danielnordhausen" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="danielnordhausen" height="40" width="40" /></a>
-<a href="https://t.me/danhausen" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="danhausen" height="40" width="40" /></a>
+<a href="https://twitter.com/danhausenbr" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="danhausenbr" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/danielnordhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="danielnordhausen" height="40" width="40" /></a>
+<a href="https://t.me/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="danhausen" height="40" width="40" /></a>
 <a href="mailto:business@danhausen.com.br" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="danhausenmail" height="40" width="40" /></a>
  
 <h3 align="left">Code profiles:</h3>
-<a href="https://dev.to/danhausen" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="danhausen" height="40" width="40" /></a>
-<a href="https://kaggle.com/danhausen" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="danhausen" height="40" width="40" /></a>
-<a href="https://dribbble.com/danhausen" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="danhausen" height="34" width="40" /></a> 
-<a href="https://www.hackerrank.com/danhausen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="danhausen" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/danhausen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="danhausen" height="40" width="40" /></a>
-<a href="https://www.topcoder.com/members/danihausen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="danihausen" height="40" width="40" /></a>
+<a href="https://dev.to/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="danhausen" height="40" width="40" /></a>
+<a href="https://kaggle.com/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="danhausen" height="40" width="40" /></a>
+<a href="https://dribbble.com/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="danhausen" height="34" width="40" /></a> 
+<a href="https://www.hackerrank.com/danhausen" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="danhausen" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/danhausen" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="danhausen" height="40" width="40" /></a>
+<a href="https://www.topcoder.com/members/danihausen" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="danihausen" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
