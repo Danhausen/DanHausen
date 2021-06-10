@@ -20,7 +20,7 @@
 <a href="https://t.me/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="danhausen" height="40" width="40" /></a>
 <a href="mailto:business@danhausen.com.br" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="danhausenmail" height="40" width="40" /></a>
  
-<h3 align="left">PROFILES:</h3>
+<h4 align="left">PROFILES:</h4>
 <a href="https://dev.to/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="danhausen" height="40" width="40" /></a>
 <a href="https://kaggle.com/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="danhausen" height="40" width="40" /></a>
 <a href="https://dribbble.com/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="danhausen" height="34" width="40" /></a> 
@@ -36,12 +36,12 @@
  <a href="https://www.blender.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="blender" width="40" height="40"/> </a>   
  <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
  
-<h3 align="left">ALTERNATIVE:</h3>
+<h4 align="left">ALTERNATIVE:</h4>
  <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>    
  
-<h3 align="left">TOOLS:</h3>
+<h4 align="left">TOOLS:</h4>
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
  </p>
