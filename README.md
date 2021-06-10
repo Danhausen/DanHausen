@@ -18,16 +18,8 @@
 <a href="https://twitter.com/danhausenbr" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="danhausenbr" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/danielnordhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="danielnordhausen" height="40" width="40" /></a>
 <a href="https://t.me/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="danhausen" height="40" width="40" /></a>
-<a href="mailto:business@danhausen.com.br" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="danhausenmail" height="40" width="40" /></a>
- 
-<h4 align="left">Profiles:</h4>
-<a href="https://dev.to/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="danhausen" height="40" width="40" /></a>
-<a href="https://kaggle.com/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="danhausen" height="40" width="40" /></a>
-<a href="https://dribbble.com/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/dribbble/dribbble-icon.svg" alt="danhausen" height="34" width="40" /></a> 
-<a href="https://www.hackerrank.com/danhausen" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="danhausen" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/danhausen" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="danhausen" height="40" width="40" /></a>
-<a href="https://www.topcoder.com/members/danihausen" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="danihausen" height="40" width="40" /></a>
-</p>
+<a href="mailto:business@danhausen.com.br" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" alt="danhausenmail" height="40" width="40" /></a> 
+
 <br></br>
 <h3 align="left">FOCUS:</h3>
 <p align="left"> 
@@ -53,5 +45,4 @@
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" alt="English" width="40" height="40"/> </a>   
 </p>
 
-<h3 align="left">SUPPORT ME:</h3>
 <p><a href="https://www.buymeacoffee.com/danhausen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danhausen" /></a></p><br><br>
