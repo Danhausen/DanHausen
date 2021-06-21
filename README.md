@@ -2,24 +2,21 @@
 <a href="https://twitter.com/danhausenbr" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="danhausenbr" width="22" /></a>
 <a href="https://linkedin.com/in/danielnordhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="danielnordhausen" width="22" /></a>
 <a href="https://t.me/danhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="danhausen" width="22" /></a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=DanHausen.DanHausen)
+<p align="left"> <a href="https://www.codewars.com/users/Dan%20Hausen" target="blank"><img src="https://www.codewars.com/users/Dan%20Hausen/badges/small" alt="danhausen" /></a></p>
 
 <br />
-
 Hi, I'm Dan Hausen, passionate self-taught Game and AI developer freelancer from Brazil. My passion for software technology lies is about its potential to improve people's and business's life and relationship, with an elegant experience. I take care in the experiences, softwares and code quality of the things that I build.
 
 I am also an open-source enthusiast. I learned a lot with this community and I love how progress and technology are shared within the open-source space.
-
-<p align="left"> <a href="https://twitter.com/danhausenbr" target="blank"><img src="https://img.shields.io/twitter/follow/danhausenbr?logo=twitter&style=for-the-badge" alt="danhausenbr" /></a></p>
-<p align="left"> <a href="https://www.codewars.com/users/Dan%20Hausen" target="blank"><img src="https://www.codewars.com/users/Dan%20Hausen/badges/small" alt="danhausen" /></a></p>
-
 <br />
 
 - 💼 Got any freelance work? Do reach me, [email](mailto:business@danhausen.com.br)
 - 💬 Feel free to asl me about anything, I am happy to help
 - 👨‍💻 I can work remotely with teams, no problem.
 
-<br></br>
+<br />
 Hard Skills:
 <p align="left"> 
  <a href="https://unity.com/" target="_blank"> <img src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogoLarge.png" alt="unity" width: "20" height="20"/> </a> 
@@ -42,7 +39,5 @@ LANGUAGES:
 
 If you like what I do, maybe consider buying me a coffee 🥺👉👈
 <p><a href="https://www.buymeacoffee.com/danhausen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danhausen"</a></p>
- 
-[![DanHausen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanHausen)](https://github.com/DanHausen/github-readme-stats)
 
  
