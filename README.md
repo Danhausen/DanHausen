@@ -20,7 +20,7 @@ I am also an open-source enthusiast. I learned a lot with this community and I l
 - 👨‍💻 I can work remotely with teams, no problem.
 
 <br></br>
-<h3 align="left">Hard Skills:</h3>
+Hard Skills:
 <p align="left"> 
  <a href="https://unity.com/" target="_blank"> <img src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogoLarge.png" alt="unity" width: "20" height="20"/> </a> 
  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  width: "20" height="20"/> </a> 
@@ -31,8 +31,7 @@ I am also an open-source enthusiast. I learned a lot with this community and I l
  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="20" height="20"/> </a> 
  </p>
  
-<br></br>
-<h3 align="left">LANGUAGES:</h3>
+LANGUAGES:
 <p align="left"> 
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" alt="Portugês" width="40" height="40"/> </a>
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/de.svg" alt="Deustch" width="40" height="40"/> </a>   
