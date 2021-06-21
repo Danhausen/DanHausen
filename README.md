@@ -37,7 +37,7 @@ Languages:
 
 If you like what I do, maybe consider buying me a coffee 🥺👉👈
 <p><a href="https://www.buymeacoffee.com/danhausen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danhausen"</a></p>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact&hide=HLSL,ShaderLab,CSS)](https://github.com/DanHausen/github-readme-stats)
+
+<p align="center">[![Top Langs] <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact&hide=HLSL,ShaderLab,CSS"/>](https://github.com/DanHausen/github-readme-stats)
 
  
