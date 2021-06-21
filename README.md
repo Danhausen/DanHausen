@@ -22,13 +22,13 @@ I am also an open-source enthusiast. I learned a lot with this community and I l
 <br></br>
 <h3 align="left">Hard Skills:</h3>
 <p align="left"> 
- <a href="https://unity.com/" target="_blank"> <img src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogoLarge.png" alt="unity" height="20"/> </a> 
- <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  height="20"/> </a> 
- <a href="https://www.blender.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="blender" height="30"/> </a>   
- <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" height="30"/> </a>
- <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript"  height="30"/> </a>
- <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
- <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
+ <a href="https://unity.com/" target="_blank"> <img src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogoLarge.png" alt="unity" width: "20" height="20"/> </a> 
+ <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  width: "20" height="20"/> </a> 
+ <a href="https://www.blender.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/blender-3d.png" alt="blender" width: "20" height="30"/> </a>   
+ <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width: "20" height="30"/> </a>
+ <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript"  width: "20" height="20"/> </a>
+ <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> </a> 
+ <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="20" height="20"/> </a> 
  </p>
  
 <br></br>
@@ -39,7 +39,7 @@ I am also an open-source enthusiast. I learned a lot with this community and I l
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" alt="English" width="40" height="40"/> </a>   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact)](https://github.com/DanHausen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact&hide=HLSL,ShaderLab,CSS)](https://github.com/DanHausen/github-readme-stats)
 
 If you like what I do, maybe consider buying me a coffee 🥺👉👈
 <p><a href="https://www.buymeacoffee.com/danhausen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danhausen"</a></p>
