@@ -32,9 +32,9 @@ Hard Skills:
  
 Languages:
 <p align="left"> 
- <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" alt="Portugês" width="40" height="40"/> </a>
- <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/de.svg" alt="Deustch" width="40" height="40"/> </a>   
- <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" alt="English" width="40" height="40"/> </a>   
+ <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" alt="Portugês" width="22" height="2"/> </a>
+ <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/de.svg" alt="Deustch" width="22" height="22"/> </a>   
+ <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" alt="English" width="22" height="22"/> </a>   
 </p>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact&hide=HLSL,ShaderLab,CSS,Ruby,HTML,Objective-C" alt="DanHausen"/>
