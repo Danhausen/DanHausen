@@ -32,7 +32,7 @@ Hard Skills:
  
 Languages:
 <p align="left"> 
- <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" alt="Portugês" width="22" height="2"/> </a>
+ <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" alt="Portugês" width="22" height="22"/> </a>
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/de.svg" alt="Deustch" width="22" height="22"/> </a>   
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" alt="English" width="22" height="22"/> </a>   
 </p>
