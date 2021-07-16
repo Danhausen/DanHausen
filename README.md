@@ -37,7 +37,7 @@ Languages:
  <a target="_blank"> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" alt="English" width="22" height="22"/> </a>   
 </p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact&hide=HLSL,ShaderLab,CSS,Ruby,HTML,Objective-C,JavaScript,Swift,Dart" alt="DanHausen"/>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact&hide=HLSL,ShaderLab,CSS,Ruby,HTML,Objective-C,JavaScript,Swift,C,Batchfile,Kotlin" alt="DanHausen"/>
 
 If you like what I do, maybe consider buying me a coffee 🥺👉👈
 <p><a href="https://www.buymeacoffee.com/danhausen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danhausen"</a></p>
