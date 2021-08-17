@@ -3,7 +3,7 @@
 <a href="https://linkedin.com/in/danielnordhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="danielnordhausen" width="22" /></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=DanHausen.DanHausen)
-<p align="left"> <a href="https://www.codewars.com/users/danhausen" target="blank"><img src="https://www.codewars.com/users/danhausen/badges/small" alt="danhausen" /></a></p>
+<!-- <p align="left"> <a href="https://www.codewars.com/users/danhausen" target="blank"><img src="https://www.codewars.com/users/danhausen/badges/small" alt="danhausen" /></a></p>-->
 
 <br />
 Hi, I'm Dan Hausen, passionate self-taught Game and AI developer freelancer from Brazil. My passion for software technology lies is about its potential to improve people's and business's life and relationship, with an elegant experience. I take care in the experiences, softwares and code quality of the things that I build.
