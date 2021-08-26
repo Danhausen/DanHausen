@@ -1,8 +1,6 @@
 ### Oi. Hello. Ciao. Hallo. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/danhausenbr" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="danhausenbr" width="22" /></a>
-<a href="https://linkedin.com/in/danielnordhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="danielnordhausen" width="22" /></a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=DanHausen.DanHausen)
+<a href="https://linkedin.com/in/danielnordhausen" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="danielnordhausen" width="22" /></a> ![](https://visitor-badge.glitch.me/badge?page_id=DanHausen.DanHausen)
 <!-- <p align="left"> <a href="https://www.codewars.com/users/danhausen" target="blank"><img src="https://www.codewars.com/users/danhausen/badges/small" alt="danhausen" /></a></p>-->
 
 <br />
