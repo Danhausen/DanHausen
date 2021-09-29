@@ -39,5 +39,4 @@ Languages:
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact&hide=HLSL,ShaderLab,CSS,Ruby,HTML,Objective-C,JavaScript,Swift,C,Batchfile,Kotlin" alt="DanHausen"/>
 
-If you like what I do, maybe consider buying me a coffee 🥺👉👈
 <p><a href="https://www.buymeacoffee.com/danhausen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danhausen"</a></p>
