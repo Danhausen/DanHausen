@@ -41,6 +41,6 @@ Languages:
 
 <p><a href="https://www.buymeacoffee.com/danhausen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danhausen"
 
-![Snake animation](https://github.com/danhausen/danhausen/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </a></p>
