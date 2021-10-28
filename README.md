@@ -22,7 +22,7 @@
   <a href = "mailto:danhausen@vivaldi.net"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/danielnordhausen" target="_blank"><img src="ttps://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Danhausen/DanHausen/blob/main/github-contribution-grid-snake.svg) 
+  <!--![Snake animation](https://github.com/Danhausen/DanHausen/blob/main/github-contribution-grid-snake.svg)-->
 </div>
 
 
