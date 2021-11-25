@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://github.com/danhausen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danhausen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanHausen&layout=compact&theme=dracula&hide=HLSL,ShaderLab,CSS,Ruby,HTML,Objective-C,JavaScript,Swift,C,Batchfile,Kotlin,Java,Shell" alt="DanHausen"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danhausen&layout=compact&theme=dracula&hide=HLSL,ShaderLab,CSS,Ruby,HTML,Objective-C,JavaScript,Swift,C,Batchfile,Kotlin,Java,Shell" alt="Danhausen"/>
 </div>
   
 <div style="display: inline_block"><br>
