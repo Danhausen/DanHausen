@@ -14,8 +14,9 @@
   <img align="center" alt="Danhausen-Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Danhausen-Flask" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
   <img align="center" alt="Danhausen-Django" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-line.svg">
-  <img align="center" alt="Danhausen-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Danhausen-Unity" height="40" width="40" src="https://github.com/halak/unity-editor-icons/blob/master/icons/small/UnityLogoLarge.png"> 
+  <br>
+  <img align="center" alt="Danhausen-Csharp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Danhausen-Unity" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg"> 
 </div>
 
 ##
