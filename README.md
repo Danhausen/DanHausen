@@ -11,9 +11,9 @@
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Danhausen-Python" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Danhausen-Flask" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="Danhausen-Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-line.svg">
+  <img align="center" alt="Danhausen-Python" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Danhausen-Flask" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="Danhausen-Django" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/django/django-line.svg">
   <br>
   <img align="center" alt="Danhausen-Csharp" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Danhausen-Unity" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg"> 
@@ -26,10 +26,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danhausen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danhausen&layout=compact&theme=dracula&hide=HLSL,ShaderLab,CSS,Ruby,HTML,Objective-C,JavaScript,Swift,C,Batchfile,Kotlin,Java,Shell" alt="Danhausen"/>
 </div>
-  
-
-  
-
-
-
-
