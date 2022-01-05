@@ -19,3 +19,10 @@
   <img align="center" alt="Danhausen-Csharp" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Danhausen-Unity" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg"> 
 </div>
+
+    ##
+
+<div align="center">
+  <a href="https://github.com/danhausen">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danhausen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
