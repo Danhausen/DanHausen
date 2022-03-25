@@ -1,5 +1,5 @@
 ## Oi. Hello. Ciao. Hallo. 
-### I am Daniel '**Danhausen**' Nordhausen, programmer and tech content creator <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### I am Daniel '**Danhausen**' Nordhausen, developer and tech content creator <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <div> 
   <a href="https://www.youtube.com/channel/UCa0RO4lMRS4rE7Sd8qYXlqw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
