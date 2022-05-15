@@ -13,11 +13,13 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Danhausen-Python" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Danhausen-Flask" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="Danhausen-Django" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/django/django-line.svg">
-  <br><br>
-  <img align="center" alt="Danhausen-Csharp" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Danhausen-Unity" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg"> 
+  <img align="center" alt="Danhausen-Flask" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+  <img align="center" alt="Danhausen-Django" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+  <img align="center" alt="Danhausen-Javascript" height="70" width="70" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_js.svg">
+  <img align="center" alt="Danhausen-Vue" height="70" width="70" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vue.svg">
+  <img align="center" alt="Danhausen-Flutter" height="70" width="70" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_flutter.svg">
+  <img align="center" alt="Danhausen-Csharp" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Danhausen-Unity" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"> 
 </div>
 
 ##
