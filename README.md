@@ -7,14 +7,15 @@
   <a href="https://www.instagram.com/dan.hausen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/DanhausenUser" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danhausen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:danhausen@vivaldi.net"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+  <br>
   <a href="https://www.hackerrank.com/DanHausen" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
   <a href="https://www.codewars.com/users/danhausen" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
-  <a href = "mailto:danhausen@vivaldi.net"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
 </div>
 
 ##
 
-<div style="display: inline_block"  align="center"><br>
+<div style="display: inline_block"  align="center">
   <strong>PROFESSIONAL EXPERIENCE:</strong>
   <br><br>
   <img align="center" alt="Danhausen-Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
