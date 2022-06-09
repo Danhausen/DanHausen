@@ -1,7 +1,7 @@
 ## Oi. Hello. Ciao. Hallo. 
 ### I am Daniel '**Danhausen**' Nordhausen, developer and tech content creator
 
-<div> 
+<div style="display: inline_block"  align="center"> 
   <a href="https://myappit.web.app/kfxixgn" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCa0RO4lMRS4rE7Sd8qYXlqw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/dan.hausen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -13,24 +13,24 @@
 ##
 
 <div style="display: inline_block"  align="center"><br>
+  <strong>PROFESSIONAL EXPERIENCE:</strong>
+  <br><br>
   <img align="center" alt="Danhausen-Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img align="center" alt="Danhausen-Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Danhausen-Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center" alt="Danhausen-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <br><br><br>
-    Professional experience:
-    <br>
-  <img align="center" alt="Danhausen-Flask" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Danhausen-Django" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">  
+    <br><br>
+  <img align="center" alt="Danhausen-Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img align="center" alt="Danhausen-Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">  
   <img align="center" alt="Danhausen-Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-  <img align="center" alt="Danhausen-NodeJS" height="70" width="70" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_node.svg">    
-  <img align="center" alt="Danhausen-Flutter" height="70" width="70" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_flutter.svg">
+  <img align="center" alt="Danhausen-NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">    
+  <img align="center" alt="Danhausen-Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center" alt="Danhausen-Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> 
     <br>
-  <img align="center" alt="Danhausen-AWS" height="70" width="70" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_aws.svg"> 
-  <img align="center" alt="Danhausen-Azure" height="70" width="70" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_azure.svg"> 
-  <img align="center" alt="Danhausen-PostgreSQL" height="70" width="70" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_pgsql.svg"> 
-  <img align="center" alt="Danhausen-Firebase" height="70" width="70" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_firebase.svg"> 
+  <img align="center" alt="Danhausen-AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img align="center" alt="Danhausen-Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> 
+  <img align="center" alt="Danhausen-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
+  <img align="center" alt="Danhausen-Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> 
 </div>
 
 ##
