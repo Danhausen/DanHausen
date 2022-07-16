@@ -4,6 +4,17 @@
   <br>
   I am Daniel <strong>Danhausen</strong> Nordhausen, developer and tech content creator 
   <br><br>
+  With 2+ years of extensive experience with tech companies using tools such as SQL, AWS, Linux, Vue.JS, NodeJS , Flask , Ansible Tower and JCL. 
+  <br>
+  Delivered Flutter and Firebase apps while freelancing in 2022. 
+  <br>
+  Delivered Unity Engine games while freelancing these recent years. 
+  <br>
+  Creative, strong communication skills and consistently meet deadlines. 
+  <br>
+  Advanced English with extensive experience with support teams from USA, China and India
+
+  <br><br>
   <a href="https://myappit.web.app/kfxixgn" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCa0RO4lMRS4rE7Sd8qYXlqw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/dan.hausen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
