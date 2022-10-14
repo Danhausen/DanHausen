@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"  align="center">
   <br>
-  I am Daniel <strong>Danhausen</strong> Nordhausen, developer and tech content creator 
+  I am Daniel Arvelini, developer and tech content creator 
   <br><br>
   With 2+ years of extensive experience with tech companies using tools such as SQL, AWS, Linux, Vue.JS, NodeJS , Flask , Ansible Tower and JCL. 
   <br>
@@ -15,12 +15,9 @@
   Advanced English with extensive experience with support teams from USA, China and India
 
   <br><br>
-  <a href="https://myappit.web.app/kfxixgn" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCa0RO4lMRS4rE7Sd8qYXlqw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/dan.hausen/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/DanhausenUser" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://beacons.ai/danarvelini" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danhausen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:danhausen@vivaldi.net"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+  <a href = "mailto:danarvelini@email.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
   <br>
   <a href="https://www.hackerrank.com/DanHausen" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
   <a href="https://www.codewars.com/users/danhausen" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
@@ -59,7 +56,7 @@
 
 <div align="center">
   <br><br>
-  <a href="https://github.com/danhausen">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danhausen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/danarvelini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danarvelini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <br><br>
 </div>
