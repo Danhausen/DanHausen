@@ -4,7 +4,7 @@
   <br>
   I am Daniel Arvelini, developer and tech content creator 
   <br><br>
-  With 2+ years of extensive experience with tech companies using tools such as SQL, AWS, Linux, Vue.JS, NodeJS , Flask , Ansible Tower and JCL. 
+  With 3+ years of extensive experience with tech companies using tools such as SQL, AWS, Linux, Vue.JS, NodeJS , Flask , Ansible Tower and JCL. 
   <br>
   Delivered Flutter and Firebase apps while freelancing in 2022. 
   <br>
