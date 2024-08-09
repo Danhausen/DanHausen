@@ -4,15 +4,9 @@
   <br>
   I am Daniel Arvelini, developer and tech content creator 
   <br><br>
-  With 3+ years of extensive experience with tech companies using tools such as SQL, AWS, Linux, Vue.JS, NodeJS , Flask , Ansible Tower and JCL. 
+  Senior Web Developer with over 5 years of experience in Full Stack Development, specializing in AWS, API development, and software automation. Proven track record in creating tools to enhance efficiency and product performance. Successfully implemented corporate development initiatives and technology solutions to support business objectives. Eager to leverage expertise in Full Stack Development to drive innovation and efficiency.
   <br>
-  Delivered Flutter and Firebase apps while freelancing in 2022. 
-  <br>
-  Delivered Unity Engine games while freelancing these recent years. 
-  <br>
-  Creative, strong communication skills and consistently meet deadlines. 
-  <br>
-  Advanced English with extensive experience with support teams from USA, China and India
+  Advanced English with extensive experience with support teams from USA, UK, China and India.
 
   <br><br>
   <a href="https://beacons.ai/danarvelini" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
