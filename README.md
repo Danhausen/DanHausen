@@ -4,7 +4,7 @@
   <br>
   I am Daniel Arvelini, developer and tech content creator 
   <br><br>
-  Senior Web Developer with over 5 years of experience in Full Stack Development, specializing in AWS, API development, and software automation. Proven track record in creating tools to enhance efficiency and product performance. Successfully implemented corporate development initiatives and technology solutions to support business objectives. Eager to leverage expertise in Full Stack Development to drive innovation and efficiency.
+  Senior Web Developer with over 6 years of experience in Full Stack Development, specializing in AWS, API development, and software automation. Proven track record in creating tools to enhance efficiency and product performance. Successfully implemented corporate development initiatives and technology solutions to support business objectives. Eager to leverage expertise in Full Stack Development to drive innovation and efficiency.
   <br>
   Advanced English with extensive experience with support teams from USA, UK, China and India.
 
